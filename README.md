@@ -14,3 +14,7 @@ from unpackosz import unpack
 ```py
 unpack("Bad Apple") # In (Bad Apple) obviously put your .osz file name
 ```
+> **Warning**<br/>
+> You don't need to put the file format at the end, for example: `Example.osz`, just put the name of the file: `Example` and obviously the path where it is located.
+
+## Parameters (Optionals)
