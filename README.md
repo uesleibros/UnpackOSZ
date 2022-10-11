@@ -10,3 +10,7 @@ A simple decompressor for .osz files (OSU)
 ```py
 from unpackosz import unpack
 ```
+> To unpack, just inform the path where your .osz file is.
+```py
+unpack("Bad Apple") # In (Bad Apple) obviously put your .osz file name
+```
