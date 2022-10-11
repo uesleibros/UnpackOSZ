@@ -1,5 +1,5 @@
 # UnpackOSZ
-![UnpackOSZ](https://cdn-icons-png.flaticon.com/512/5132/5132856.png)
+![UnpackOSZ](https://cdn-icons-png.flaticon.com/512/5132/5132856.png)<br/>
 A simple decompressor for .osz files (OSU)
 
 # Why Use?
